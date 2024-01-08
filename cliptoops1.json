@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "name": "Producto 1",
-        "description": "Descripción del Producto 1.",
-        "price": 19.99,
-        "image": "imagen1.jpg"
+        "name": "zorro",
+        "description": "96598465654984645654654646654984684",
+        "price": 2,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu0zhlrKBARFPtnuqWAQ-oHZ9vicN_VoOlRBlQ_49v1UzrHGwrT4GAnkxO2WgdGo_CpZ4&usqp=CAU"
     },
     {
         "id": 2,
