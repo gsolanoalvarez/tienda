@@ -1,16 +1,19 @@
 [
   {
     "titulo": "Artículo 1",
+    "nombre": "zorro",
     "descripcion": "96598465654984645654654646654984684",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu0zhlrKBARFPtnuqWAQ-oHZ9vicN_VoOlRBlQ_49v1UzrHGwrT4GAnkxO2WgdGo_CpZ4&usqp=CAU"
   },
   {
     "titulo": "Artículo 2",
+    "nombre": "zorro",
     "descripcion": "96598465654984645654654646654984684",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu0zhlrKBARFPtnuqWAQ-oHZ9vicN_VoOlRBlQ_49v1UzrHGwrT4GAnkxO2WgdGo_CpZ4&usqp=CAU"
   },
   {
     "titulo": "Artículo 3",
+    "nombre": "zorro",
     "descripcion": "96598465654984645654654646654984684",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu0zhlrKBARFPtnuqWAQ-oHZ9vicN_VoOlRBlQ_49v1UzrHGwrT4GAnkxO2WgdGo_CpZ4&usqp=CAU"
   }
