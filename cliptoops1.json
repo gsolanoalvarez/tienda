@@ -1,30 +1,14 @@
 [
-    {
-        "id": 1,
-        "name": "zorro",
-        "description": "96598465654984645654654646654984684",
-        "price": 2,
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu0zhlrKBARFPtnuqWAQ-oHZ9vicN_VoOlRBlQ_49v1UzrHGwrT4GAnkxO2WgdGo_CpZ4&usqp=CAU"
-    },
-    {
-        "id": 2,
-        "name": "Producto 2",
-        "description": "Descripción del Producto 2.",
-        "price": 24.99,
-        "image": "imagen2.jpg"
-    },
-    {
-        "id": 3,
-        "name": "Producto 3",
-        "description": "Descripción del Producto 3.",
-        "price": 29.99,
-        "image": "imagen3.jpg"
-    },
-    {
-        "id": 4,
-        "name": "Nuevo Producto",
-        "description": "Descripción del Nuevo Producto.",
-        "price": 39.99,
-        "image": "nueva_imagen.jpg"
-    }
+  {
+    "titulo": "Artículo 1",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu0zhlrKBARFPtnuqWAQ-oHZ9vicN_VoOlRBlQ_49v1UzrHGwrT4GAnkxO2WgdGo_CpZ4&usqp=CAU"
+  },
+  {
+    "titulo": "Artículo 2",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu0zhlrKBARFPtnuqWAQ-oHZ9vicN_VoOlRBlQ_49v1UzrHGwrT4GAnkxO2WgdGo_CpZ4&usqp=CAU"
+  },
+  {
+    "titulo": "Artículo 3",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu0zhlrKBARFPtnuqWAQ-oHZ9vicN_VoOlRBlQ_49v1UzrHGwrT4GAnkxO2WgdGo_CpZ4&usqp=CAU"
+  }
 ]
