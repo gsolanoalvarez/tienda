@@ -1,17 +1,16 @@
-[
-  {
-    "titulo": "zorro",
-    "descripcion": "96598465654984645654654646654984684",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu0zhlrKBARFPtnuqWAQ-oHZ9vicN_VoOlRBlQ_49v1UzrHGwrT4GAnkxO2WgdGo_CpZ4&usqp=CAU"
-  },
-  {
-    "titulo": "zorro",
-    "descripcion": "96598465654984645654654646654984684",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu0zhlrKBARFPtnuqWAQ-oHZ9vicN_VoOlRBlQ_49v1UzrHGwrT4GAnkxO2WgdGo_CpZ4&usqp=CAU"
-  },
-  {
-    "titulo": "zorro",
-    "descripcion": "96598465654984645654654646654984684",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu0zhlrKBARFPtnuqWAQ-oHZ9vicN_VoOlRBlQ_49v1UzrHGwrT4GAnkxO2WgdGo_CpZ4&usqp=CAU"
-  }
-]
+{
+    "products": [
+        {
+            "name": "Producto 1",
+            "description": "Descripción del Producto 1",
+            "price": "10.00",
+            "image": "https://via.placeholder.com/300x200"
+        },
+        {
+            "name": "Producto 2",
+            "description": "Descripción del Producto 2",
+            "price": "15.00",
+            "image": "https://via.placeholder.com/300x200"
+        }
+    ]
+}
