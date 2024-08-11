@@ -5,7 +5,7 @@
       "slides": [
         {
           "image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
-          "alt": "diseño"
+          "alt": "imagen 1"
         }
       ]
     },
@@ -14,7 +14,25 @@
       "slides": [
         {
           "image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
-          "alt": "Descripción Imagen 3"
+          "alt": "Imagen 2"
+        }
+      ]
+    },
+    {
+      "title": "Card 3",
+      "slides": [
+        {
+          "image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
+          "alt": "Imagen 3"
+        }
+      ]
+    },
+    {
+      "title": "Card 4",
+      "slides": [
+        {
+          "image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
+          "alt": "Imagen 4"
         }
       ]
     }
@@ -27,6 +45,14 @@
     {
       "image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
       "alt": "Imagen Popup 2"
+    },
+    {
+      "image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
+      "alt": "Imagen Popup 3"
+    },
+    {
+      "image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
+      "alt": "Imagen Popup 4"
     }
   ]
 }
