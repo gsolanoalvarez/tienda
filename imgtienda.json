@@ -1,14 +1,14 @@
 {
   "cards": [
     {
-      "title": "Título de la Card 1",
+      "title": "cap1",
       "slides": [
         {
-          "image": "image1.jpg",
-          "alt": "Descripción Imagen 1"
+          "image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
+          "alt": "diseño"
         },
         {
-          "image": "image2.jpg",
+          "image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
           "alt": "Descripción Imagen 2"
         }
       ]
@@ -17,11 +17,11 @@
       "title": "Título de la Card 2",
       "slides": [
         {
-          "image": "image3.jpg",
+          "image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
           "alt": "Descripción Imagen 3"
         },
         {
-          "image": "image4.jpg",
+          "image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
           "alt": "Descripción Imagen 4"
         }
       ]
@@ -29,11 +29,11 @@
   ],
   "popupSlides": [
     {
-      "image": "popup-image1.jpg",
+      "image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
       "alt": "Descripción Imagen Popup 1"
     },
     {
-      "image": "popup-image2.jpg",
+      "image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
       "alt": "Descripción Imagen Popup 2"
     }
   ]
