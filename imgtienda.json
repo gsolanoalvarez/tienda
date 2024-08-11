@@ -14,7 +14,7 @@
       ]
     },
     {
-      "title": "Título de la Card 2",
+      "title": "Card 2",
       "slides": [
         {
           "image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
@@ -30,11 +30,11 @@
   "popupSlides": [
     {
       "image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
-      "alt": "Descripción Imagen Popup 1"
+      "alt": "Imagen Popup 1"
     },
     {
       "image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
-      "alt": "Descripción Imagen Popup 2"
+      "alt": "Imagen Popup 2"
     }
   ]
 }
