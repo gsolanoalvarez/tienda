@@ -40,19 +40,19 @@
   "popupSlides": [
     {
       "image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
-      "alt": "Imagen Popup 1"
+      "alt": "Popup 1"
     },
     {
       "image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
-      "alt": "Imagen Popup 2"
+      "alt": "Popup 2"
     },
     {
       "image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
-      "alt": "Imagen Popup 3"
+      "alt": "Popup 3"
     },
     {
       "image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
-      "alt": "Imagen Popup 4"
+      "alt": "Popup 4"
     }
   ]
 }
