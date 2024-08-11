@@ -1,0 +1,40 @@
+{
+  "cards": [
+    {
+      "title": "Título de la Card 1",
+      "slides": [
+        {
+          "image": "image1.jpg",
+          "alt": "Descripción Imagen 1"
+        },
+        {
+          "image": "image2.jpg",
+          "alt": "Descripción Imagen 2"
+        }
+      ]
+    },
+    {
+      "title": "Título de la Card 2",
+      "slides": [
+        {
+          "image": "image3.jpg",
+          "alt": "Descripción Imagen 3"
+        },
+        {
+          "image": "image4.jpg",
+          "alt": "Descripción Imagen 4"
+        }
+      ]
+    }
+  ],
+  "popupSlides": [
+    {
+      "image": "popup-image1.jpg",
+      "alt": "Descripción Imagen Popup 1"
+    },
+    {
+      "image": "popup-image2.jpg",
+      "alt": "Descripción Imagen Popup 2"
+    }
+  ]
+}
