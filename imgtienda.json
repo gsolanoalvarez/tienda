@@ -6,10 +6,6 @@
         {
           "image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
           "alt": "diseño"
-        },
-        {
-          "image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
-          "alt": "Descripción Imagen 2"
         }
       ]
     },
@@ -19,10 +15,6 @@
         {
           "image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
           "alt": "Descripción Imagen 3"
-        },
-        {
-          "image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
-          "alt": "Descripción Imagen 4"
         }
       ]
     }
