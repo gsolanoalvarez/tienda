@@ -21,6 +21,28 @@
         {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 3 Card 2"},
         {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 4 Card 2"}
       ]
+    },
+     {
+      "mainImage": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
+      "title": "Card 3",
+      "description": "Descripción de la Card 3.",
+      "popupSlides": [
+        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 1 Card 2"},
+        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 2 Card 2"},
+        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 3 Card 2"},
+        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 4 Card 2"}
+      ]
+    },
+     {
+      "mainImage": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
+      "title": "Card 4",
+      "description": "Descripción de la Card 4.",
+      "popupSlides": [
+        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 1 Card 2"},
+        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 2 Card 2"},
+        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 3 Card 2"},
+        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 4 Card 2"}
+      ]
     }
   ]
 }
