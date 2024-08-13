@@ -2,47 +2,52 @@
   "cards": [
     {
       "mainImage": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
-      "title": "Card 1",
-      "description": "Descripción de la Card 1.",
+      "title": "Card Title 1",
+      "description": "Description for card 1",
+      "price": "5.00",
       "popupSlides": [
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 1 Card 1"},
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 2 Card 1"},
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 3 Card 1"},
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 4 Card 1"}
+        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 1"},
+        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 2"},
+        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 3"},
+        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 4"}
       ]
     },
     {
       "mainImage": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
-      "title": "Card 2",
-      "description": "Descripción de la Card 2.",
+      "title": "Card Title 2",
+      "description": "Description for card 2",
+      "price": "2.00",
       "popupSlides": [
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 1 Card 2"},
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 2 Card 2"},
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 3 Card 2"},
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 4 Card 2"}
+        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 1"},
+        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 2"},
+        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 3"},
+        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 4"}
       ]
     },
-     {
+    {
       "mainImage": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
-      "title": "Card 3",
-      "description": "Descripción de la Card 3.",
+      "title": "Card Title 3",
+      "description": "Description for card 3",
+      "price": "8.00",
       "popupSlides": [
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 1 Card 2"},
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 2 Card 2"},
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 3 Card 2"},
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 4 Card 2"}
+        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 1"},
+        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 2"},
+        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 3"},
+        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 4"}
       ]
     },
-     {
+    {
       "mainImage": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
-      "title": "Card 4",
-      "description": "Descripción de la Card 4.",
+      "title": "Card Title 4",
+      "description": "Description for card 4",
+      "price": "12.00",
       "popupSlides": [
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 1 Card 2"},
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 2 Card 2"},
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 3 Card 2"},
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Imagen 4 Card 2"}
+        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 1"},
+        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 2"},
+        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 3"},
+        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 4"}
       ]
     }
   ]
 }
+
