@@ -1,28 +1,24 @@
 {
-    "products": [
-        {
-            "name": "Producto 1",
-            "description": "Descripción del Producto 1",
-            "price": "10.00",
-            "image": "https://via.placeholder.com/300x200"
-        },
-        {
-            "name": "Producto 2",
-            "description": "Descripción del Producto 2",
-            "price": "8.00",
-            "image": "https://via.placeholder.com/300x200"
-        },
-        {
-            "name": "Producto 3",
-            "description": "Descripción del Producto 3",
-            "price": "2.00",
-            "image": "https://via.placeholder.com/300x200"
-        },
-        {
-            "name": "Producto 4",
-            "description": "Descripción del Producto 4",
-            "price": "2.00",
-            "image": "https://via.placeholder.com/300x200"
-        }
-    ]
+  "cards": [
+    {
+      "mainImage": "path/to/image1.jpg",
+      "title": "Card Title 1",
+      "description": "Description for card 1",
+      "price": "10.00",
+      "popupSlides": [
+        {"image": "path/to/slide1.jpg", "alt": "Slide 1"},
+        {"image": "path/to/slide2.jpg", "alt": "Slide 2"}
+      ]
+    },
+    {
+      "mainImage": "path/to/image2.jpg",
+      "title": "Card Title 2",
+      "description": "Description for card 2",
+      "price": "20.00",
+      "popupSlides": [
+        {"image": "path/to/slide1.jpg", "alt": "Slide 1"},
+        {"image": "path/to/slide2.jpg", "alt": "Slide 2"}
+      ]
+    }
+  ]
 }
