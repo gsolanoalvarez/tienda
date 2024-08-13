@@ -1,15 +1,14 @@
 {
   "cards": [
     {
-      "mainImage": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
-      "title": "Card Title 1",
-      "description": "contenido",
+      "mainImage": "https://i.imgur.com/hTxH75W.jpeg",
+      "title": "Codigo para reproducir canales",
+      "description": "plataforma moderna, que ofrece una selección diversa de canales para todos los gustos. Desde noticias y deportes hasta películas y series, nuestro catálogo está diseñado para satisfacer tus preferencias. El reproductor fijo en la parte inferior de la pantalla asegura que nunca te pierdas de tus programas favoritos, brindándote acceso instantáneo a contenido en cualquier momento. La interfaz elegante y responsiva garantiza una navegación fluida y una visualización óptima en todos los dispositivos. Disfruta de un acceso ininterrumpido a tus canales preferidos con un diseño que combina funcionalidad y estilo.",
       "price": "5.00",
       "popupSlides": [
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 1"},
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 2"},
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 3"},
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 4"}
+        {"image": "https://i.imgur.com/hTxH75W.jpeg", "alt": "Slide 1"},
+        {"image": "https://i.imgur.com/hVOLRV8.jpeg", "alt": "Slide 2"},
+        {"image": "https://i.imgur.com/mXB3vBE.jpeg", "alt": "Slide 3"}
       ]
     },
     {
