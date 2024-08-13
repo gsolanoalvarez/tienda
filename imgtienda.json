@@ -3,7 +3,7 @@
     {
       "mainImage": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
       "title": "Card Title 1",
-      "description": "",
+      "description": "contenido",
       "price": "5.00",
       "popupSlides": [
         {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 1"},
@@ -15,7 +15,7 @@
     {
       "mainImage": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
       "title": "Card Title 2",
-      "description": "",
+      "description": "contenido",
       "price": "2.00",
       "popupSlides": [
         {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 1"},
@@ -27,7 +27,7 @@
     {
       "mainImage": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
       "title": "Card Title 3",
-      "description": "",
+      "description": "contenido",
       "price": "8.00",
       "popupSlides": [
         {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 1"},
@@ -39,7 +39,7 @@
     {
       "mainImage": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
       "title": "Card Title 4",
-      "description": "",
+      "description": "contenido",
       "price": "12.00",
       "popupSlides": [
         {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 1"},
