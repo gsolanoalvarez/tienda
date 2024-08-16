@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "imagen": "images/pl1.png",
+    "titulo": "corte americano",
+    "precio": "$200",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos atque pariatur accusantium eveniet fugit, temporibus dicta dolorem eos harum voluptatibus debitis quis et doloremque itaque vel enim, amet ad molestiae."
+  },
+  {
+    "id": "2",
+    "imagen": "images/pl2.png",
+    "titulo": "corte americano",
+    "precio": "$200",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos atque pariatur accusantium eveniet fugit, temporibus dicta dolorem eos harum voluptatibus debitis quis et doloremque itaque vel enim, amet ad molestiae."
+  }
+]
