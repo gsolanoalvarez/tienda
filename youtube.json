@@ -2,15 +2,15 @@
   {
     "id": "1",
     "imagen": "https://i.imgur.com/qh2WwF3.jpg",
-    "titulo": "corte americano",
+    "titulo": "solo 2",
     "precio": "$10",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos atque pariatur accusantium eveniet fugit, temporibus dicta dolorem eos harum voluptatibus debitis quis et doloremque itaque vel enim, amet ad molestiae."
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos atque pariatur accusantium eveniet fugit, 
   },
   {
     "id": "2",
     "imagen": "https://i.imgur.com/qh2WwF3.jpg",
-    "titulo": "corte americano",
+    "titulo": "solo 1",
     "precio": "$10",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos atque pariatur accusantium eveniet fugit, temporibus dicta dolorem eos harum voluptatibus debitis quis et doloremque itaque vel enim, amet ad molestiae."
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos atque pariatur accusantium eveniet fugit, 
   }
 ]
