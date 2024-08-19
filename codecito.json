@@ -3,49 +3,49 @@
   {
     "name": "gato",
     "price": "$10",
-    "img": "img/product-1.png",
+    "img": "https://i.imgur.com/qh2WwF3.jpg",
     "rating": 4.5
   },
   {
     "name": "perro",
     "price": "$10",
-    "img": "img/product-2.png",
+    "img": "https://i.imgur.com/qh2WwF3.jpg",
     "rating": 4.5
   },
   {
     "name": "mono",
     "price": "$10",
-    "img": "img/product-3.png",
+    "img": "https://i.imgur.com/qh2WwF3.jpg",
     "rating": 4.5
   },
   {
     "name": "uva",
     "price": "$10",
-    "img": "img/product-4.png",
+    "img": "https://i.imgur.com/qh2WwF3.jpg",
     "rating": 4.5
   },
   {
     "name": "lol",
     "price": "$10",
-    "img": "img/product-5.png",
+    "img": "https://i.imgur.com/qh2WwF3.jpg",
     "rating": 4.5
   },
   {
     "name": "cara",
     "price": "$10",
-    "img": "img/product-6.png",
+    "img": "https://i.imgur.com/qh2WwF3.jpg",
     "rating": 4.5
   },
   {
     "name": "mano",
     "price": "$10",
-    "img": "img/product-7.png",
+    "img": "https://i.imgur.com/qh2WwF3.jpg",
     "rating": 4.5
   },
   {
     "name": "oso",
     "price": "$10",
-    "img": "img/product-8.png",
+    "img": "https://i.imgur.com/qh2WwF3.jpg",
     "rating": 4.5
   }
 ]
