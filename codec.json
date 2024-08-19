@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "image": "https://i.imgur.com/qh2WwF3.jpg",
+      "name": "perro",
+      "price": "$10",
+      "stars": 4.5
+    },
+    {
+      "image": "https://i.imgur.com/qh2WwF3.jpg",
+      "name": "lobo",
+      "price": "$20",
+      "stars": 4
+    }
+  ],
+  "categories": [
+    {
+      "image": "https://i.imgur.com/IXZC2jv.png",
+      "title": "uva",
+      "price": "$15",
+      "description": "lindo"
+    },
+    {
+      "image": "https://i.imgur.com/IXZC2jv.png",
+      "title": "pan",
+      "price": "$25",
+      "description": "bonito"
+    }
+  ]
+}
