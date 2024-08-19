@@ -1,0 +1,26 @@
+[
+  {
+    "title": "panda",
+    "price": "$10",
+    "image": "https://i.imgur.com/qh2WwF3.jpg",
+    "description": "bueno"
+  },
+  {
+    "title": "llama",
+    "price": "$20",
+    "image": "https://i.imgur.com/qh2WwF3.jpg",
+    "description": "bonito"
+  },
+  {
+    "title": "torutga",
+    "price": "$2",
+    "image": "https://i.imgur.com/qh2WwF3.jpg",
+    "description": "barato"
+  },
+  {
+    "title": "luna",
+    "price": "$25",
+    "image": "https://i.imgur.com/qh2WwF3.jpg",
+    "description": "descuento"
+  }
+]
