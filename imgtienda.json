@@ -1,37 +1,26 @@
-{
-  "products": [
+[
     {
-      "id": 1,
-      "name": "Product 1",
-      "description": "This is a great product that solves many problems.",
-      "price": "19.99",
-      "image": "https://example.com/images/product1.jpg",
-      "additional_images": [
-        "https://example.com/images/product1-1.jpg",
-        "https://example.com/images/product1-2.jpg"
-      ]
+        "id": 1,
+        "title": "Curso de JavaScript Avanzado",
+        "description": "Aprende JavaScript avanzado con este curso completo.",
+        "price": "49.99",
+        "image": "images/javascript-course.png",
+        "images": [
+            "images/js-1.png",
+            "images/js-2.png",
+            "images/js-3.png"
+        ]
     },
     {
-      "id": 2,
-      "name": "Product 2",
-      "description": "An amazing product with many features.",
-      "price": "29.99",
-      "image": "https://example.com/images/product2.jpg",
-      "additional_images": [
-        "https://example.com/images/product2-1.jpg",
-        "https://example.com/images/product2-2.jpg"
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Product 3",
-      "description": "A must-have product for your collection.",
-      "price": "39.99",
-      "image": "https://example.com/images/product3.jpg",
-      "additional_images": [
-        "https://example.com/images/product3-1.jpg",
-        "https://example.com/images/product3-2.jpg"
-      ]
+        "id": 2,
+        "title": "Plantillas HTML Responsivas",
+        "description": "Conjunto de plantillas HTML totalmente responsivas para tu proyecto web.",
+        "price": "29.99",
+        "image": "images/html-templates.png",
+        "images": [
+            "images/html-1.png",
+            "images/html-2.png",
+            "images/html-3.png"
+        ]
     }
-  ]
-}
+]
