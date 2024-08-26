@@ -1,52 +1,37 @@
 {
-  "cards": [
+  "products": [
     {
-      "mainImage": "https://i.imgur.com/hTxH75W.jpeg",
-      "title": "Codigo reproducir canales",
-      "description": "plataforma, que ofrece una selección diversa de canales. Desde noticias y deportes hasta películas y series, está diseñado para satisfacer tus preferencias. El reproductor fijo en la parte superior de la pantalla asegura que nunca te pierdas de tus programas favoritos, brindándote acceso instantáneo a contenido en cualquier momento. La interfaz elegante y responsiva garantiza una navegación fluida. Disfruta de un acceso ininterrumpido a tus canales preferidos con un diseño que combina funcionalidad y estilo.",
-      "price": "5.00",
-      "popupSlides": [
-        {"image": "https://i.imgur.com/hTxH75W.jpeg", "alt": "Slide 1"},
-        {"image": "https://i.imgur.com/hVOLRV8.jpeg", "alt": "Slide 2"},
-        {"image": "https://i.imgur.com/mXB3vBE.jpeg", "alt": "Slide 3"}
+      "id": 1,
+      "name": "Product 1",
+      "description": "This is a great product that solves many problems.",
+      "price": "19.99",
+      "image": "https://example.com/images/product1.jpg",
+      "additional_images": [
+        "https://example.com/images/product1-1.jpg",
+        "https://example.com/images/product1-2.jpg"
       ]
     },
     {
-      "mainImage": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
-      "title": "Card Title 2",
-      "description": "contenido",
-      "price": "2.00",
-      "popupSlides": [
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 1"},
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 2"},
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 3"},
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 4"}
+      "id": 2,
+      "name": "Product 2",
+      "description": "An amazing product with many features.",
+      "price": "29.99",
+      "image": "https://example.com/images/product2.jpg",
+      "additional_images": [
+        "https://example.com/images/product2-1.jpg",
+        "https://example.com/images/product2-2.jpg"
       ]
     },
     {
-      "mainImage": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
-      "title": "Card Title 3",
-      "description": "contenido",
-      "price": "8.00",
-      "popupSlides": [
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 1"},
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 2"},
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 3"},
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 4"}
-      ]
-    },
-    {
-      "mainImage": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200",
-      "title": "Card Title 4",
-      "description": "contenido",
-      "price": "12.00",
-      "popupSlides": [
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 1"},
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 2"},
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 3"},
-        {"image": "https://via.placeholder.com/300x200https://via.placeholder.com/300x200", "alt": "Slide 4"}
+      "id": 3,
+      "name": "Product 3",
+      "description": "A must-have product for your collection.",
+      "price": "39.99",
+      "image": "https://example.com/images/product3.jpg",
+      "additional_images": [
+        "https://example.com/images/product3-1.jpg",
+        "https://example.com/images/product3-2.jpg"
       ]
     }
   ]
 }
-
