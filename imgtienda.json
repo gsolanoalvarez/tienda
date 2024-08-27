@@ -4,11 +4,11 @@
         "title": "Curso de JavaScript Avanzado",
         "description": "Aprende JavaScript avanzado con este curso completo.",
         "price": "49.99",
-        "image": "images/javascript-course.png",
+        "image": "https://i.imgur.com/qh2WwF3.jpeg",
         "images": [
-            "images/js-1.png",
-            "images/js-2.png",
-            "images/js-3.png"
+            "https://i.imgur.com/qh2WwF3.jpeg",
+            "https://i.imgur.com/qh2WwF3.jpeg",
+            "https://i.imgur.com/qh2WwF3.jpeg"
         ]
     },
     {
@@ -16,11 +16,11 @@
         "title": "Plantillas HTML Responsivas",
         "description": "Conjunto de plantillas HTML totalmente responsivas para tu proyecto web.",
         "price": "29.99",
-        "image": "images/html-templates.png",
+        "image": "https://i.imgur.com/IXZC2jv.png",
         "images": [
-            "images/html-1.png",
-            "images/html-2.png",
-            "images/html-3.png"
+            "https://i.imgur.com/IXZC2jv.png",
+            "https://i.imgur.com/IXZC2jv.png",
+            "https://i.imgur.com/IXZC2jv.png"
         ]
     }
 ]
