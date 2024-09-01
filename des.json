@@ -1,4 +1,23 @@
-{
-  "productos": [solo1],
-  "linkDescarga": "https://mega.nz/file/1BIxnQAB#O4aEXfyWwgq9bdJcFwaW_GJ-3dHBJAA_5jF2qaeUQQk"
-}
+[
+    {
+        "id": 1,
+        "title": "Producto 1",
+        "description": "Descripción del producto 1.",
+        "price": 29.99,
+        "image": "https://example.com/images/producto1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Producto 2",
+        "description": "Descripción del producto 2.",
+        "price": 19.99,
+        "image": "https://example.com/images/producto2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Producto 3",
+        "description": "Descripción del producto 3.",
+        "price": 39.99,
+        "image": "https://example.com/images/producto3.jpg"
+    }
+]
