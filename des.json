@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "Producto 1",
+        "title": "compra",
         "description": "Descripción del producto 1.",
         "price": 2,
         "image": "https://i.imgur.com/qh2WwF3.jpeg",
@@ -13,7 +13,7 @@
     },
     {
         "id": 2,
-        "title": "Producto 2",
+        "title": "compra",
         "description": "Descripción del producto 2.",
         "price": 5,
         "image": "https://i.imgur.com/qh2WwF3.jpeg",
@@ -25,7 +25,7 @@
     },
     {
         "id": 3,
-        "title": "Producto 3",
+        "title": "compra",
         "description": "Descripción del producto 3.",
         "price": 6,
         "image": "https://i.imgur.com/qh2WwF3.jpeg",
