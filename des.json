@@ -2,13 +2,12 @@
     {
         "id": 1,
         "name": "compra",
-        "description": "Descripción del producto 1.",
+        "description": "Grilla de canales con menu flotante",
         "price": 2,
-        "image": "https://i.imgur.com/qh2WwF3.jpeg",
+        "image": "https://i.imgur.com/NYX3NLY.jpeg",
         "images": [
-      "https://i.imgur.com/0Z2prtK.png",
-      "https://i.imgur.com/0Z2prtK.png",
-      "https://i.imgur.com/0Z2prtK.png"
+      "https://i.imgur.com/NYX3NLY.jpeg",
+      "https://i.imgur.com/RsmI8Qh.jpeg"
     ]
     },
     {
