@@ -12,14 +12,13 @@
     },
     {
         "id": 2,
-        "name": "compra",
-        "description": "Descripción del producto 2.",
-        "price": 5,
-        "image": "https://i.imgur.com/qh2WwF3.jpeg",
+        "name": "Reproductor de video online",
+        "description": "player de video por url",
+        "price": 10,
+        "image": "https://i.imgur.com/TPpHfLr.png",
         "images": [
-      "https://i.imgur.com/0Z2prtK.png",
-      "https://i.imgur.com/0Z2prtK.png",
-      "https://i.imgur.com/0Z2prtK.png"
+      "https://i.imgur.com/pVPLVal.jpeg",
+      "https://i.imgur.com/2VbqQTL.jpeg"
     ]
     },
     {
