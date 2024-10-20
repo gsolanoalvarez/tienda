@@ -1,13 +1,11 @@
 [
     {
         "id": 1,
-        "name": "Grilla de canales",
-        "description": "Plantilla de canales con menu flotante circular",
+        "name": "Grogu Bebé Yoda",
+        "description": "¡Es lindo, es verde y se encariñará contigo! Toma tus tijeras y un poco de pegamento para hacer tu propio bebé sensible a la Fuerza.",
         "price": 2,
-        "image": "https://i.imgur.com/Hw2o9gZ.png",
+        "image": "https://cdn.prod.website-files.com/61b27ac79fc398dbe6acc8ab/628d8cbb50e3e2651676ad56_Grogu-Paper-Craft-Kooky-Craftables.jpg",
         "images": [
-      "https://i.imgur.com/NYX3NLY.jpeg",
-      "https://i.imgur.com/RsmI8Qh.jpeg"
     ]
     },
     {
