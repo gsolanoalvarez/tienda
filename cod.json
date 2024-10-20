@@ -1,1 +1,48 @@
-
+[
+    {
+        "id": 1,
+        "name": "Grilla de canales",
+        "description": "Plantilla de canales con menu flotante circular",
+        "price": 2,
+        "image": "https://i.imgur.com/Hw2o9gZ.png",
+        "images": [
+      "https://i.imgur.com/NYX3NLY.jpeg",
+      "https://i.imgur.com/RsmI8Qh.jpeg"
+    ]
+    },
+    {
+        "id": 2,
+        "name": "Reproductor de video online",
+        "description": "player de video por url",
+        "price": 10,
+        "image": "https://i.imgur.com/TPpHfLr.png",
+        "images": [
+      "https://i.imgur.com/pVPLVal.jpeg",
+      "https://i.imgur.com/2VbqQTL.jpeg"
+    ]
+    },
+    {
+        "id": 3,
+        "name": "compra",
+        "description": "Descripción del producto 3.",
+        "price": 6,
+        "image": "https://i.imgur.com/qh2WwF3.jpeg",
+        "images": [
+      "https://i.imgur.com/0Z2prtK.png",
+      "https://i.imgur.com/0Z2prtK.png",
+      "https://i.imgur.com/0Z2prtK.png"
+    ]
+    },
+    {
+        "id": 4,
+        "name": "compra",
+        "description": "Descripción del producto 3.",
+        "price": 10,
+        "image": "https://i.imgur.com/qh2WwF3.jpeg",
+        "images": [
+      "https://i.imgur.com/0Z2prtK.png",
+      "https://i.imgur.com/0Z2prtK.png",
+      "https://i.imgur.com/0Z2prtK.png"
+    ]
+    }
+]
