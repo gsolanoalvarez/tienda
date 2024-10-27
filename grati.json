@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "Grogu Bebé Yoda",
+        "description": "¡Es lindo, es verde y se encariñará contigo! Toma tus tijeras y un poco de pegamento para hacer tu propio bebé sensible a la Fuerza.",
+        "price": 2,
+        "image": "https://cdn.prod.website-files.com/61b27ac79fc398dbe6acc8ab/628d8cbb50e3e2651676ad56_Grogu-Paper-Craft-Kooky-Craftables.jpg",
+        "images": [
+    ]
+    },
+    {
+        "id": 2,
+        "name": "WALL-E",
+        "description": "WALL -E está programado para limpiar todo el planeta de basura, Es extremadamente curioso tranquilo, trabajador y un poco solitario.",
+        "price": 10,
+        "image": "https://paper-replika.com/images/papercraft/disney/walle/walle_9.jpg",
+        "images": [
+      "https://paper-replika.com/images/papercraft/disney/walle/walle_2.jpg",
+      "https://paper-replika.com/images/papercraft/disney/walle/walle_3.jpg"
+    ]
+    },
+    {
+        "id": 3,
+        "name": "compra",
+        "description": "Descripción del producto 3.",
+        "price": 6,
+        "image": "https://i.imgur.com/qh2WwF3.jpeg",
+        "images": [
+      "https://i.imgur.com/0Z2prtK.png",
+      "https://i.imgur.com/0Z2prtK.png",
+      "https://i.imgur.com/0Z2prtK.png"
+    ]
+    },
+    {
+        "id": 4,
+        "name": "compra",
+        "description": "Descripción del producto 3.",
+        "price": 10,
+        "image": "https://i.imgur.com/qh2WwF3.jpeg",
+        "images": [
+      "https://i.imgur.com/0Z2prtK.png",
+      "https://i.imgur.com/0Z2prtK.png",
+      "https://i.imgur.com/0Z2prtK.png"
+    ]
+    }
+]
