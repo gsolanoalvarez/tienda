@@ -25,7 +25,7 @@
         "id": 3,
         "name": "compra",
         "description": "Descripción del producto 3.",
-        "price": "free",
+        "price": 8,
         "image": "https://i.imgur.com/qh2WwF3.jpeg",
         "images": [
       "https://i.imgur.com/0Z2prtK.png",
