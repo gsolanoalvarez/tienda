@@ -23,14 +23,14 @@
     },
     {
         "id": 3,
-        "name": "compra",
-        "description": "Descripción del producto 3.",
-        "price": 8,
-        "image": "https://i.imgur.com/qh2WwF3.jpeg",
+        "name": "Tv online",
+        "description": "plantilla que reproduce canales a patalla completa",
+        "price": 6,
+        "image": "https://i.imgur.com/zPQVKaQ.png",
         "images": [
-      "https://i.imgur.com/0Z2prtK.png",
-      "https://i.imgur.com/0Z2prtK.png",
-      "https://i.imgur.com/0Z2prtK.png"
+      "https://i.imgur.com/zPQVKaQ.png",
+      "https://i.imgur.com/r1ldg7D.png",
+      "https://i.imgur.com/8rwrVki.png"
     ]
     },
     {
