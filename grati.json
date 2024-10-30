@@ -29,17 +29,5 @@
       "https://i.imgur.com/7eoR2KI.jpeg",
       "https://i.imgur.com/6LNUVTP.jpeg"
     ]
-    },
-    {
-        "id": 4,
-        "name": "compra",
-        "description": "Descripción del producto 3.",
-        "price": "free",
-        "image": "https://i.imgur.com/qh2WwF3.jpeg",
-        "images": [
-      "https://i.imgur.com/0Z2prtK.png",
-      "https://i.imgur.com/0Z2prtK.png",
-      "https://i.imgur.com/0Z2prtK.png"
-    ]
     }
 ]
