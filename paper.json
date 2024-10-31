@@ -18,5 +18,16 @@
       "https://paper-replika.com/images/papercraft/disney/walle/walle_2.jpg",
       "https://paper-replika.com/images/papercraft/disney/walle/walle_3.jpg"
     ]
+    },
+    {
+        "id": 3,
+        "name": "Zorro bebe",
+        "description": "Zorro bebe  es muy tierno sosteniendose de la Luna",
+        "price": 10,
+        "image": "https://i.imgur.com/DXYwEwa.png",
+        "images": [
+      "https://i.imgur.com/vMNogAq.png",
+      "https://i.imgur.com/d3uTgxO.png"
+    ]
     }
 ]
