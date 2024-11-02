@@ -25,12 +25,22 @@
         "id": 3,
         "name": "Tv online",
         "description": "plantilla que reproduce canales a patalla completa",
-        "price": 6,
+        "price": 10,
         "image": "https://i.imgur.com/zPQVKaQ.png",
         "images": [
       "https://i.imgur.com/zPQVKaQ.png",
       "https://i.imgur.com/r1ldg7D.png",
       "https://i.imgur.com/8rwrVki.png"
+    ]
+    },
+    {
+        "id": 4,
+        "name": "Radio online",
+        "description": "plantilla que reproduce emisoras de radio",
+        "price": 5,
+        "image": "https://i.imgur.com/hA9XSW6.png",
+        "images": [
+      "https://i.imgur.com/T29Tf6k.png"
     ]
     }
 ]
