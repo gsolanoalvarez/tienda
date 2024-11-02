@@ -9,17 +9,6 @@
     ]
     },
     {
-        "id": 2,
-        "name": "WALL-E",
-        "description": "WALL-E está programado para limpiar todo el planeta de basura, Es extremadamente curioso tranquilo, trabajador y un poco solitario.",
-        "price": "free",
-        "image": "https://paper-replika.com/images/papercraft/disney/walle/walle_9.jpg",
-        "images": [
-      "https://paper-replika.com/images/papercraft/disney/walle/walle_2.jpg",
-      "https://paper-replika.com/images/papercraft/disney/walle/walle_3.jpg"
-    ]
-    },
-    {
         "id": 3,
         "name": "Deadpool",
         "description": "Deadpool es el alter ego de Wade Wilson, un mercenario canadiense desfigurado con habilidades curativas regenerativas sobrehumanas",
